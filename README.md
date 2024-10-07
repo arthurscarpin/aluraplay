@@ -10,6 +10,7 @@ Esse é um Web Site estático responsivo da Aluraplay, um sistema de streaming f
 
 ## 🗣️ Aluraplay
 ![img-aluraplay](https://github.com/user-attachments/assets/a991f1bc-35c8-424b-8f25-781ddc01bc1e)
+[Deploy Aluraplay](https://arthurscarpin.github.io/aluraplay/)
 
 ## 🔎 Técnicas de design
 - HTML semântico;
